@@ -1,4 +1,4 @@
-# Healthcare Data Analytics Project 
+# Dental Clinic Performance Analysis 
 
 ## Tools Used
 - SQL — Data extraction and aggregation
